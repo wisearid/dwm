@@ -97,7 +97,7 @@ static const Key keys[] = {
 	TAGKEYS(                        XK_8,                      7)
 	TAGKEYS(                        XK_9,                      8)
 	{ MODKEY|ShiftMask,             XK_m,      quit,           {0} }, 
-        { MODKEY|ShiftMask, XK_s, spawn, SHCMD("flameshot gui") },
+ { MODKEY, XK_s, spawn, SHCMD("flameshot gui") },
 };
 
 /* button definitions */
