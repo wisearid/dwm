@@ -6,5 +6,4 @@ and (re)compiling the source code.
 Dependencies
 ------------
 
-noto-fonts noto-fonts-cjk noto-fonts-emoji rofi 
- st flameshot
+noto-fonts noto-fonts-cjk noto-fonts-emoji rofi st flameshot
